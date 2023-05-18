@@ -40,3 +40,7 @@ docker exec -it app_php /bin/bash
 ```shell
 php artisan migrate
 ```
+#### Run local page
+```shell
+http://localhost:8000/
+```
